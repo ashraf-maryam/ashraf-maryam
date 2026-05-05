@@ -1,6 +1,6 @@
 Hi, I'm Maryam 👋
 
-I'm a cybersecurity student building hands-on experience through:
+I'm a cybersecurity student actively building hands-on experience through:
 - CTF challenges and write-ups
 - Security-focused projects
 - Continuous learning and practice
