@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Maryam 👋
 
-<!--
-**ashraf-maryam/ashraf-maryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity student building hands-on experience through:
+- CTF challenges and write-ups
+- Security-focused projects
+- Continuous learning and practice
 
-Here are some ideas to get you started:
+Currently working on:
+- CTF write-ups (picoCTF)
+- Python scripting
+- Linux system security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goal:
+Become a strong security engineer through real-world, practical experience
